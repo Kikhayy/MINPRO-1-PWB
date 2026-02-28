@@ -33,5 +33,6 @@ Menampilkan ringkasan profil dan kemampuan.
 <img width="352" height="461" alt="image" src="https://github.com/user-attachments/assets/795d0394-a7ba-4fd1-9051-4b0857f4969f" />
 <img width="1635" height="830" alt="image" src="https://github.com/user-attachments/assets/995d9810-dac5-47f6-a17a-0381ed70225b" />
 <img width="550" height="127" alt="Cuplikan layar 2026-03-01 014131" src="https://github.com/user-attachments/assets/26d24eb9-11df-4dad-aad1-11da7285a437" />
+
 Menampilkan 6 sertifikat dalam bentuk card layout dan footer berisi email dan nomor telepon.
 
