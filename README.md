@@ -1,7 +1,9 @@
 # MINPRO-1-PWB
 
 Nama : Rizky Yunia
+
 Nim : 2409116089
+
 Kelas : Sistem Informasi C
 
 ## Teknologi yang Digunakan
@@ -28,8 +30,8 @@ Menampilkan ringkasan profil dan kemampuan.
 <img width="668" height="825" alt="image" src="https://github.com/user-attachments/assets/186f6d89-1503-47bd-9f1a-f96e8e96d2ba" />
 <img width="647" height="366" alt="image" src="https://github.com/user-attachments/assets/050dfe71-a479-45a4-af1a-66c15f9363ad" />
 <img width="661" height="835" alt="image" src="https://github.com/user-attachments/assets/f5eae3d7-cda0-4b89-bdf9-43d55740c8b7" />
-<img width="535" height="672" alt="image" src="https://github.com/user-attachments/assets/e516ee73-7ef8-47ec-8088-93551402aa40" />
-<img width="1635" height="830" alt="image" src="https://github.com/user-attachments/assets/995d9810-dac5-47f6-a17a-0381ed70225b" />
 <img width="352" height="461" alt="image" src="https://github.com/user-attachments/assets/795d0394-a7ba-4fd1-9051-4b0857f4969f" />
+<img width="1635" height="830" alt="image" src="https://github.com/user-attachments/assets/995d9810-dac5-47f6-a17a-0381ed70225b" />
+<img width="550" height="127" alt="Cuplikan layar 2026-03-01 014131" src="https://github.com/user-attachments/assets/26d24eb9-11df-4dad-aad1-11da7285a437" />
 Menampilkan 6 sertifikat dalam bentuk card layout dan footer berisi email dan nomor telepon.
 
